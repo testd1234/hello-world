@@ -5,12 +5,6 @@
 </head>
 <body>
 
-<<<<<<< HEAD
-<h2>THis is master's test2</h2>
-=======
-	<h2>This is anil's branch file</h2>
-
-
->>>>>>> anil
+<h2>This is master's branch code</h2>
 </body>
 </html>
