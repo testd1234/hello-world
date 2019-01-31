@@ -4,7 +4,6 @@
 	<title>Test</title>
 </head>
 <body>
-	<h2>this is master branch</h2>
-
+<h2>Hello world</h2>
 </body>
 </html>
