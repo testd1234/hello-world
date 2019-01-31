@@ -4,7 +4,6 @@
 	<title>Test</title>
 </head>
 <body>
-	<h2>This is from anil's branch</h2>
-
+<h2>Hello world</h2>
 </body>
 </html>
