@@ -5,7 +5,7 @@
 </head>
 <body>
 
-	<h2>This is test2 file</h2>
+	<h2>This is test2</h2>
 
 </body>
 </html>
